@@ -20,5 +20,5 @@ Create a new environment and install TensorFlow 2.8 From https://www.tensorflow.
 1. run beta_simulator.exe
 2. open cmd in current project folder
 3. activate your environment
-4. write `python drive.py model.h5`
+4. write `python drive.py model1.h5`
 
